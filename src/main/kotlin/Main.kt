@@ -125,5 +125,4 @@ class CoffeeMachine(private var machineContents: MachineContents) {
         }
 
     }
-
 }
